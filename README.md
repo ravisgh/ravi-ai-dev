@@ -11,8 +11,8 @@
 
 ### 🧠 About Me
 
-- 🏢 Currently working as **Reviewer & Software Engineer (AI Quality)** at RapidSurge Innovations, Gurgaon — handling AI quality review for a WhatsApp-based pharmacist bot and catalog-matching operations
-- 🎓 Pursuing **MCA in Full Stack Development** (Chandigarh University Online)
+- 🏢 Currently working as **Reviewer & Software Engineer at RapidSurge Innovations, Gurgaon — handling AI quality review for a WhatsApp-based pharmacist bot and catalog-matching operations
+- 🎓 Pursuing *MCA* (Chandigarh University Online)
 - 🐍 Self-studying and building projects in **Python, FastAPI, and MongoDB** to transition into a backend developer role
 - 🛠️ Currently building **InstaMed** — a production-style pharmacy backend inspired by quick-commerce platforms
 - 📈 Background in AI/operations: error analysis, QA workflows, and internal tool-building for pharmacy operations
