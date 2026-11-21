@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Ravi Singh
 
-### AI Quality Reviewer @ RapidSurge Innovations 
+### AI Quality|Reviewer @ RapidSurge Innovations Pvt Ltd.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-singh-1b6ab4319/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi-ai-dev)
@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 🏢 Currently working as **Reviewer & Software Engineer at RapidSurge Innovations, Gurgaon — handling AI quality review for a WhatsApp-based pharmacist bot and catalog-matching operations
-- 🎓 Pursuing *MCA* (Chandigarh University Online)
+- 🎓 Pursuing *MCA* (Chandigarh University)
 - 🐍 Self-studying and building projects in **Python, FastAPI, and MongoDB** to transition into a backend developer role
 - 🛠️ Currently building **InstaMed** — a production-style pharmacy backend inspired by quick-commerce platforms
 - 📈 Background in AI/operations: error analysis, QA workflows, and internal tool-building for pharmacy operations
@@ -61,8 +61,7 @@ An internal order-management console built with React.js and Google Apps Script,
 ### 🎯 Current Focus
 
 - 🌱 Deepening backend fundamentals — Python, FastAPI, MongoDB, system design
-- 🔨 Building InstaMed end-to-end as a portfolio project
-- 💼 Open to **Python / FastAPI / MongoDB backend developer** roles (internships and entry-level)
+- 🔨 Building InstaMed end-to-end as a portfolio project.
 
 ---
 
